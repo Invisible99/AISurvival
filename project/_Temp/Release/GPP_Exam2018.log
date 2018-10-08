@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  FSM.cpp
+  Plugin.cpp
+d:\school\2017-2018\gameplay programming\endassigment\2dae05_janssens_stef_gpp-exam2018\source\project\plugin.h(87): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  SteeringBehaviours.cpp
+  Generating Code...
+     Creating library _Temp\Release\GPP_Plugin.lib and object _Temp\Release\GPP_Plugin.exp
+  GPP_Exam2018.vcxproj -> D:\School\2017-2018\Gameplay Programming\EndAssigment\2DAE05_Janssens_Stef_GPP-Exam2018\Source\project\..\_DEMO_RELEASE\GPP_Plugin.dll
